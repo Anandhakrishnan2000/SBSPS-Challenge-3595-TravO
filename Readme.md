@@ -1,4 +1,4 @@
-![](Image%20Assets/TravO_Logo.png)
+![](Image%20Assets/TravO_Logo_small.png)
 # XLSolution
 ## TravO
 TABLE OF CONTENTS.
