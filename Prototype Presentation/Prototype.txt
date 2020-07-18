@@ -12,5 +12,5 @@ It is not a production level or "ready-to-go" product.
 
 
 Copy the link and Paste & Go.
-https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A38&viewport=-15%2C165%2C0.1493370532989502&scaling=scale-down
+https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A6&scaling=scale-down
 
