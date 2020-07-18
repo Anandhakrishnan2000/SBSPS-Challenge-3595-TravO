@@ -1,0 +1,16 @@
+The prototype is build using Figma - Designing Tool.
+
+User Guide : 
+The prototype will be visible as same as any Android application.
+**** If you are feeling difficulty in navigating through the screens. ****
+- Click somewhere on the screen you are stuck at !
+- A blue box with selection will be visible.
+- Click on that, to move on to the next or previous page.
+
+The aim of this prototype is only for understanding the structure and architect of the application.
+It is not a production level or "ready-to-go" product. 
+
+
+Copy the link and Paste & Go.
+https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A38&viewport=-15%2C165%2C0.1493370532989502&scaling=scale-down
+
